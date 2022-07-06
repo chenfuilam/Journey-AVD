@@ -3,7 +3,7 @@
 - To deploy Azure Virtual Desktop environment, we need a Windows Active Directory (for example: contoso.com). This can be achieved using one of the following ways:
 
     1. Azure Active Directory Domain Services(AADDS)
-    2. Windows Active Directory
+    2. Windows Active Directory - you may refer to start the Windows Active Directory, https://github.com/PeterR-msft/M365AVDWS/tree/master/AAD-Hybrid-Lab
 
 - In this lab, we have used AADDS and it is pre-provisioned. 
 
