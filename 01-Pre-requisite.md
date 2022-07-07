@@ -11,5 +11,3 @@
 - When you provision Azure ADDS, it creates a group named "AAD DC Administrators" in Azure Active Directory. Members of this group are allowed to be able to join AVD Sessions Hosts to Azure ADDS.  Your lab account is already a member of this group. 
 
 
-
-Click on the **Next** button present in the bottom-right corner of this lab guide.  
